@@ -11,7 +11,7 @@ Simple loading dots view, light and quite configurable.
 
 ### OpacityWave
 
-    ![opacityWave](https://github.com/AlvaroOlave/LoadingDots/assets/11005083/d25b53ea-9d23-451f-9d31-8576d3a6ffb4)
+![opacityWave](https://github.com/AlvaroOlave/LoadingDots/assets/11005083/d25b53ea-9d23-451f-9d31-8576d3a6ffb4)
 
 ### Scale
 
