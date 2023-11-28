@@ -7,7 +7,7 @@ Simple loading dots view, light and quite configurable.
 
 ### Opacity
 
-    <img src="https://github.com/AlvaroOlave/LoadingDots/assets/11005083/8c7e06f4-69b3-455a-92f2-f7508a2c8c65">
+<img src="https://github.com/AlvaroOlave/LoadingDots/assets/11005083/8c7e06f4-69b3-455a-92f2-f7508a2c8c65">
 
 ### OpacityWave
 
