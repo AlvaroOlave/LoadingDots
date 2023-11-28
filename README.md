@@ -2,12 +2,29 @@
 
 Simple loading dots view, light and quite configurable.
 
+## Simple use example
 
-## Available animations:
+    let dotsView = LoadingDotsView()
+	dotsView.translatesAutoresizingMaskIntoConstraints = false
+	addSubview(dotsView)
+	NSLayoutConstraint.activate([
+		dotsView.centerXAnchor.constraint(equalTo: centerXAnchor),
+		dotsView.centerYAnchor.constraint(equalTo: centerYAnchor)
+	])
+
+## Configuration options
+
+ - **Number of dots**
+ - **Dot radius:** Actually, it is the dot diameter.
+ - **Dot separation:** Separation between dots.
+ - **Colors:** Background color of the dots. If the array containts more than one color, a gradient will be added with those colors. If contains one color, no gradient will be created, just the color.
+ - **Animation:** The desired animation from the available options.
+
+## Available animations
 
 ### Opacity
 
-![opacityWave](https://github.com/AlvaroOlave/LoadingDots/assets/11005083/8c7e06f4-69b3-455a-92f2-f7508a2c8c65)
+![opacity](https://github.com/AlvaroOlave/LoadingDots/assets/11005083/8c7e06f4-69b3-455a-92f2-f7508a2c8c65)
 
 ### OpacityWave
 
