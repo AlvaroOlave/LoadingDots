@@ -7,7 +7,7 @@ Simple loading dots view, light and quite configurable.
 
 ### Opacity
 
-    ![](https://github.com/AlvaroOlave/LoadingDots/blob/master/ExampleAnimations/opacity.gif)
+    ![](opacity.gif)
 
 ### OpacityWave
 
