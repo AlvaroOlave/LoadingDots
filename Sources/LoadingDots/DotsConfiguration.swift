@@ -2,7 +2,7 @@
 //  DotsConfiguration.swift
 //  
 //
-//  Created by Álvaro Olave Bañeres on 21/11/23.
+//  Created by Álvaro Olave on 21/11/23.
 //
 
 import Foundation

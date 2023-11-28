@@ -2,13 +2,13 @@
 //  LoadingDotsView.swift
 //  
 //
-//  Created by Álvaro Olave Bañeres on 21/11/23.
+//  Created by Álvaro Olave on 21/11/23.
 //
 
 import Foundation
 import UIKit
 
-public final class DotsView: UIView {
+public final class LoadingDotsView: UIView {
     
     private var radius: Double {
         configuration.dotRadius
@@ -102,7 +102,7 @@ public final class DotsView: UIView {
     }
 }
 
-private extension DotsView {
+private extension LoadingDotsView {
     func setupView() {
         gradientLayers.forEach {
             layer.addSublayer($0)
